@@ -1,0 +1,5 @@
+1. Surface Normals in the Wild,  Weifeng Chen,Donglai Xiang,Jia Deng, 2017
+
+
+2. Designing Deep Networks for Surface Normal Estimation, Xiaolong Wang, David F.Fouhey, Abhinav Gupata, 2015
+
